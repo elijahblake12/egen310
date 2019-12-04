@@ -1,0 +1,5 @@
+Game controller
+X    X position    3    SLIDER    X Axis    0    1.0    0.0
+Y    Y position    3    SLIDER    Y Axis    0    1.0    0.0
+Z    Z position    3    SLIDER    Z Axis    0    1.0    0.0
+BUTTON    Button press    1    BUTTON    Button 0    0    0.0    0.0
